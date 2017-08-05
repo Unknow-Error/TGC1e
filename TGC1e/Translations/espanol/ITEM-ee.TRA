@@ -12,6 +12,7 @@ Factor de velocidad: 4
 Talento marcial: Hacha
 Tipo de arma: A una mano
 Requisitos: Fuerza 10~
+
 @30007 = ~Clava del Archdruida +2~
 @30008 = ~Esta clava encantada mágicamente era la posesión de un druida de alta categoría. Con cada golpe exitoso, toda criatura no inmune a este tipo de magia debe realizar un tiro de salvación contra conjuros, en caso de fallar se quedará enredada durante un turno.
 
@@ -26,6 +27,7 @@ Factor de velocidad: 4
 Talento marcial: Clava
 Tipo: A una mano
 Requisitos: Fuerza 5~ 
+
 @30009 = ~Clava de Roble +1~
 @30010 = ~La mayoría de los garrotes son palos recios de madera, estrechos en la empuñadura y más anchos en los extremos. Esta sencilla herramienta se ha utilizado desde que el hombre comenzó a utilizar herramientas.  
 Os parece que la clava es muy pesada, pero cuando golpeáis a un enemigo con ella, se revela tan precisa y ligera como una pluma.
@@ -49,8 +51,10 @@ CARACTERÍSTICAS:
 Clase de armadura: 3 (1 contra daño cortante, 5 contra daño contundente)
 Peso: 10 lbs
 Requesitos: Fuerza 7~
+
 @30015 = ~Cristal Rojo~ 
 @30016 = ~Este cristal está encantado con poderosa magia. Se usa para invocar a un Sirviente de cristal. Mientras poseáis el cristal, la criatura seguirá vuestras órdenes.~
+
 @30017 = ~Yelmo Dorado Enano~
 @30018 = ~Este es un yelmo pesado hecho de hierro y oro. Pertenece a la familia Balorslayer, y está protegido por poderosa magia que impide a los demás llevarlo. Sin embargo, probablemente podría venderse por un buen precio debido a su exquisito acabado y por la cantidad de oro que contiene.
 
@@ -73,6 +77,7 @@ Factor de velocidad: 8
 Talento marcial: Alabarda
 Tipo: A dos manos
 Requisitos: Fuerza 13~ 
+
 @30025 = ~BW05_SPEC_ITM~
 @30026 = ~Cota de malla de Jusam +4~ 
 @30027 = ~Esta es una poderosa armadura, pero sois incapaz de llevarla. Tan pronto como os la ponéis, la armadura os quema y os produce calambres por la electricidad. 
@@ -82,6 +87,7 @@ CARACTERÍSTICAS:
 Clase de Armadura: 1 (-2 contra daño contundente)
 Peso: 5 lbs
 Requisitos: Fuerza 7~
+
 @30030 = ~Martillo de guerra de Jusam +3~
 @30031 = ~Este martillo pesa tanto que sois incapaz de usarlo. Es muy difícil cargar con él.
 
@@ -95,6 +101,7 @@ Factor de velocidad: 2
 Talento marcial: Martillo de guerra
 Tipo: A una mano
 Requisitos: Fuerza 9~
+
 @30032 = ~Esta es una llave mágica, aunque pesa considerablemente.~
 @30033 = ~Llave de latón~
 @30034 = ~Llave de Oro~
@@ -102,6 +109,7 @@ Requisitos: Fuerza 9~
 @30036 = ~Pequeña llave de latón~
 @30037 = ~Llave de hierro~
 @30038 = ~Llave de cobre~
+
 @30041 = ~Armadura de placas +3, Escudo de la Tormenta~
 @30042 = ~Esta armadura fue forjada en la herrería del castillo Legencase, y fue encantada por un poderoso mago. Aparte del texto grabado que indica el lugar donde fue fabricada, la armadura también lleva grabada una pequeña letra M.
 
@@ -120,6 +128,7 @@ Aptitudes poseídas:
   Tiradas de salvación contra muerte : +2 de bonificación 
   Tiradas de salvación contra conjuros: +2 de bonificación
 Peso:  4 lbs~
+
 @30047 = ~Pergamino del gólem mohoso~
 @30048 = ~Este pergamino explica cómo conseguir que el gólem mohoso entregue los objetos que guarda en su interior. Las seis llaves deben ser insertadas en el siguiente orden:
 
@@ -129,6 +138,7 @@ Peso:  4 lbs~
  Pequeña llave de hierro
  Llave de hierro
  Llave de oro~
+ 
 @30051 = ~Espada larga +3: Don de la Tormenta~
 @30052 = ~Esta espada fue ofrecida al gran guerrero Ignatius Chrom, quien defendió al pueblo de Cormyr durante 333 años (tenía una barba muy larga cuando murió). La Leyenda cuenta que cuando tenía 111 años, hubo una gran tormenta, y Chrom desapareció. Pero regresó más tarde, blandiendo esta poderosa espada en la mano. Cuando Chrom murió, el arma se perdió. No tenéis ni idea de cómo llegó a manos de Teven.
 
@@ -158,6 +168,7 @@ tutor, el glorioso, portará la muerte.
 Invulnerable señor del asesinato del mundo,
 Ninguna muerte os alcanzará, seguid solo las palabras de nuestros mentores.
 Nunca traicionéis a la sombra oscura.~
+
 @30057 = ~Martillo de guerra +1: 'Encantatrueno'~
 @30058 = ~Este martillo de guerra fue forjado por un herrero enano, y demuestra ser de gran calidad. Cuando fue terminado, hubo una gran tormenta. Su creador se dirigió a la cima de la montaña, y esperó hasta que un rayo le alcanzó por accidente. Él murió, pero el martillo, en vez de fundirse, adquirió propiedades mágicas.
 
